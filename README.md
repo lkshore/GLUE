@@ -9,3 +9,7 @@ before download and process GLUE data.
 you have to change the path in `download_glue_data.zsh` accordingly.
 
 3. Run `download_glue_data.zsh`
+
+4. Run `download_squad11_data.zsh` in `SQuAD_v1.1`
+
+5. Run `download_squad20_data.zsh` in `SQuAD_v2.0`
